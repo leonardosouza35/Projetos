@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license id="27468010-b9e7-4e66-aa42-34aa0da88c81" expiration="2019-01-18T00:00:00.0000000" type="Trial" prof="efprof" version="5" updatesExpiration="2019-Jan-18">
+  <name>Hacker Academy</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>quBxsptgCn+8Vjdq+Ye3c0O0i8I=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>lQBduwOG5M9TjRex4i4CzAAQQd1OQsozWR3mSdBzZHzjxYhNsCvr1PLz03RFCOQpBBYry+LHMYecZga7olcUa3DGCFqvFKyShWL5KkS4LwDNO6DPnKT6dR1GE35UFIorTATkPv+Rgh3krQcecRHQ09HzyOdtENC26yRJOwZAhNc=</SignatureValue>
+  </Signature>
+</license>
